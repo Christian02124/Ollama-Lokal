@@ -1,4 +1,4 @@
-# Local AI Chatbot Portfolio (Ollama)
+# Local AI Chatbot (Ollama)
 
 This repository contains multiple chatbot implementations using **local Large Language Models (LLM)** powered by **Ollama**.
 
@@ -39,9 +39,3 @@ A more scalable architecture where:
 - Resource-aware development (RAM & CPU constraints)
 
 ---
-
-## 🚀 Future Improvements
-- PDF document chatbot
-- Context optimization
-- Vector database integration (RAG)
-- Docker-based deployment
